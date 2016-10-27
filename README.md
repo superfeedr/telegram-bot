@@ -2,7 +2,7 @@
 
 > Bots are *hot*.
 
-Here's a bot for [Telegram](https://telegram.org/) which lets you use it as a feed reader. You can [use our instance](https://telegram.me/superfeedr_bot) directly, but you shoudl make sure you deploy your own version if it!
+Here's a bot for [Telegram](https://telegram.org/) which lets you use it as a feed reader. You can [use our instance](https://telegram.me/superfeedr_bot) directly, but you should make sure you deploy your own version of it!
 
 ## Features
 
